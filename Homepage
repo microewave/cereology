@@ -1,4 +1,3 @@
-<!-- index.html -->
 <!DOCTYPE html>
 <html lang="en">
 
@@ -10,43 +9,27 @@
 </head>
 
 <body>
-
     <header>
         <h1>Cereology</h1>
         <p>Good flavours for a good day!</p>
         <nav>
-            <a href="index.html">Home</a>
-            <a href="shop.html">Shop</a>
+            <a href="shop.html">Visit Shop</a>
         </nav>
     </header>
 
-    <section id="about">
-        <h2>About Cereology</h2>
-        <p>We provide healthy, nutrient-rich cereals made with natural ingredients. No artificial additives, more fiber and protein, and eco-friendly packaging.</p>
+    <section id="mission">
+        <h2>Our Mission</h2>
+        <p>We offer healthy, nutrient-rich cereals made with natural ingredients for a better start to your day.</p>
     </section>
 
-    <section id="how">
-        <h2>How It's Made</h2>
-        <ul>
-            <li>Sourcing Ingredients: Whole grains, nuts, seeds, and dried fruits.</li>
-            <li>Mixing: Combine oats, seeds, and natural sweeteners like honey and dates.</li>
-            <li>Baking/Toasting: For a crunchy texture while preserving nutrients.</li>
-            <li>Flavoring: Add spices like cinnamon or vanilla.</li>
-            <li>Quality Control: Taste and test each batch.</li>
-            <li>Packaging: Eco-friendly packaging with clear labels.</li>
-        </ul>
-    </section>
-
-    <section id="contact">
-        <h2>Contact Us</h2>
-        <p>Email: info@cereology.com</p>
-        <p>Phone: +1 234 567 890</p>
+    <section id="why-needed">
+        <h2>Why It's Needed</h2>
+        <p>Most cereals today are filled with sugar and artificial additives. Cereology changes that by providing wholesome, clean, and diet-friendly options for everyone.</p>
     </section>
 
     <footer>
-        <p>© 2025 Cereology | Privacy Policy | Terms of Service | Sustainability</p>
+        <p>&copy; 2025 Cereology. All rights reserved.</p>
     </footer>
-
 </body>
 
 </html>
