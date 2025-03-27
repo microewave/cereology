@@ -15,47 +15,15 @@
         <p>Good flavours for a good day!</p>
         <nav>
             <a href="#about">About</a>
-            <a href="#products">Products</a>
             <a href="#how">How It's Made</a>
             <a href="#contact">Contact</a>
+            <a href="shop.html">Shop</a>
         </nav>
     </header>
 
     <section id="about">
         <h2>About Cereology</h2>
         <p>We provide healthy, nutrient-rich cereals made with natural ingredients. No artificial additives, more fiber and protein, and eco-friendly packaging.</p>
-    </section>
-
-    <section id="products">
-        <h2>Our Products</h2>
-        <div class="product-grid">
-
-            <div class="product">
-                <h3>Crunchy Cocoa Quinoa</h3>
-                <p>$6.99</p>
-            </div>
-
-            <div class="product">
-                <h3>Golden Honey Oat Blend</h3>
-                <p>$6.99</p>
-            </div>
-
-            <div class="product">
-                <h3>Cinnamon Seed & Nut Crunch</h3>
-                <p>$6.99</p>
-            </div>
-
-            <div class="product">
-                <h3>Seasonal Special</h3>
-                <p>$7.99</p>
-            </div>
-
-        </div>
-
-        <div style="text-align: center; margin-top: 20px;">
-            <button onclick="window.location.href='shop.html'" style="padding: 10px 20px; font-size: 16px; cursor: pointer;">Go to Shop</button>
-        </div>
-
     </section>
 
     <section id="how">
@@ -83,3 +51,4 @@
 </body>
 
 </html>
+
