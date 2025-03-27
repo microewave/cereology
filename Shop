@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cereology</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Cereology</h1>
+        <p>Good flavours for a good day!</p>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#products">Products</a>
+            <a href="#how">How It's Made</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Cereology</h2>
+        <p>We provide healthy, nutrient-rich cereals made with natural ingredients. No artificial additives, more fiber and protein, and eco-friendly packaging.</p>
+    </section>
+
+    <section id="products">
+        <h2>Our Products</h2>
+        <div class="product-grid">
+
+            <div class="product">
+                <h3>Crunchy Cocoa Quinoa</h3>
+                <p>$6.99</p>
+            </div>
+
+            <div class="product">
+                <h3>Golden Honey Oat Blend</h3>
+                <p>$6.99</p>
+            </div>
+
+            <div class="product">
+                <h3>Cinnamon Seed & Nut Crunch</h3>
+                <p>$6.99</p>
+            </div>
+
+            <div class="product">
+                <h3>Seasonal Special</h3>
+                <p>$7.99</p>
+            </div>
+
+        </div>
+    </section>
+
+    <section id="how">
+        <h2>How It's Made</h2>
+        <ul>
+            <li>Sourcing Ingredients: Whole grains, nuts, seeds, and dried fruits.</li>
+            <li>Mixing: Combine oats, seeds, and natural sweeteners like honey and dates.</li>
+            <li>Baking/Toasting: For a crunchy texture while preserving nutrients.</li>
+            <li>Flavoring: Add spices like cinnamon or vanilla.</li>
+            <li>Quality Control: Taste and test each batch.</li>
+            <li>Packaging: Eco-friendly packaging with clear labels.</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: info@cereology.com</p>
+        <p>Phone: +1 234 567 890</p>
+    </section>
+
+    <footer>
+        <p>© 2025 Cereology | Privacy Policy | Terms of Service | Sustainability</p>
+    </footer>
+
+</body>
+
+</html>
