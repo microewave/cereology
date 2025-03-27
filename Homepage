@@ -1,3 +1,4 @@
+<!-- index.html -->
 <!DOCTYPE html>
 <html lang="en">
 
@@ -14,9 +15,7 @@
         <h1>Cereology</h1>
         <p>Good flavours for a good day!</p>
         <nav>
-            <a href="#about">About</a>
-            <a href="#how">How It's Made</a>
-            <a href="#contact">Contact</a>
+            <a href="index.html">Home</a>
             <a href="shop.html">Shop</a>
         </nav>
     </header>
@@ -51,4 +50,5 @@
 </body>
 
 </html>
+
 
